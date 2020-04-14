@@ -1,0 +1,23 @@
+.cont-{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.min-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fondo-b{
+    background: #82dfe0;
+}
+
+.title-{
+    margin: 24px 0px 10px 0px;
+    text-align: center;
+}

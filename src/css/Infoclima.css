@@ -1,0 +1,83 @@
+.cont-infoclima{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.cont-info-1{
+    height: 45%;
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background: darkred;
+}
+
+.cont-info-2{
+    height: 55%;
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cc-tt{
+    margin:22px 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icbad{
+    margin: 0px 10px;
+}
+
+.car-details{
+    margin: 10px 0px;
+    height: 120px;
+    overflow-x:scroll;
+    display: flex;
+    position: sticky;
+    padding-left: 140px;
+    left: 0px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.data-clima{
+    min-height: 100px !important;
+    max-height: 100px ;
+    min-width: 100px !important;
+    margin: 0px 15px    ;
+    background-color: blueviolet;
+    border-radius: 25px;
+}
+
+.c-info-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.ic-img{
+    width: 54px;
+    height: 54px;
+}
+.ic-personal-data{
+    margin: 0px 20px;
+}
+.ic-personal-data > h6{
+    margin: 0px;
+}
+.ic-personal-data > p{
+    margin: 0px;
+}

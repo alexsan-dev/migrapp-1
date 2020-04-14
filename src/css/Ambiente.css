@@ -1,0 +1,42 @@
+.cont-ambiente{
+    border-radius: 24px;
+    height: 220px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+
+.circulo-c{
+    /* position: static; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+}
+
+.c1{
+    position: relative;
+    right: 85px;
+    bottom:65px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.c2{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+}
+
+.c3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
