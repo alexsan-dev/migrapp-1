@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e0482e37ca196d533423a804b55216c",
+    "revision": "c570227137481d0c2184504beb3c4580",
     "url": "/migrapp-1/index.html"
   },
   {
