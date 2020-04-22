@@ -3,7 +3,6 @@ import '../css/Clima.css'
 import { Link } from 'react-router-dom';
 
 const Clima = (props) => {
-    console.log(props.id)
     return (
         <Link to={`/climas/${props.id}`}>
             <div className="cont-clm" style={{ background: props.data.backcolor }}>

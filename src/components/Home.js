@@ -9,12 +9,12 @@ class Home extends Component {
             <div className="fondo-b">
                 <div className="container cont-">
                     <img src="/img/2480748.jpg" width="300px"/>
-                    <h2 className="title- ">Welcome to Migraap</h2>
+                    <h2 className="title- ">Bienvenido a Migraap</h2>
                     <div className="min-cont">
-                        <p className="title- lorem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo</p>
+                        <p className="title- lorem">Viaja a donde quieras de una manera Natural, con Migraap que conecta con la naturaleza...</p>
                         <Link to="/ambientes"><button className="btn btn-info btn-lg title-">Comenzar</button></Link>
                     </div>
-                    <p className="title-">Aplicacion version 1.0.0</p>
+                    <p className="title-">Aplicacion version 1.1.0</p>
                 </div>
                 
             </div>

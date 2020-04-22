@@ -4,11 +4,11 @@ import '../css/Infoclima.css'
 const InfoClima = (props) => {
     return ( 
         <div className="cont-infoclima">
-            <div className="cont-info-1 animated fadeInDown">
+            <div className="cont-info-1 animated fadeInDown" style={{background: props.clima.backcolor}}>
 
             </div>
             <div className="cont-info-2 container">
-                <h4 className="cc-tt">Informacion de <span className="icbad badge badge-primary">Clima</span></h4>
+            <h4 className="cc-tt">Informacion de <span className="icbad badge badge-primary">{props.clima.title}</span></h4>
                 <div className='car-details animated fadeInRight'>
                     <div className='data-clima'></div>
                     <div className='data-clima'></div>
@@ -25,7 +25,7 @@ const InfoClima = (props) => {
                     </div>
                 </div>
                 <p style={{margin:'20px 0px'}}>
-                Cree un segundo "fotograma clave @" que reinicie su animación, el único problema con esto es que no puede establecer ninguna propiedad de animación para el reinicio de la animación (simplemente vuelve a aparecer)
+                {props.clima.descript}
                 </p>
             </div>
         </div>
