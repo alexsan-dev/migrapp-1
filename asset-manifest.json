@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/migrapp-1/static/css/main.0d93896c.chunk.css",
-    "main.js": "/migrapp-1/static/js/main.12db9841.chunk.js",
-    "main.js.map": "/migrapp-1/static/js/main.12db9841.chunk.js.map",
+    "main.js": "/migrapp-1/static/js/main.05cb57fa.chunk.js",
+    "main.js.map": "/migrapp-1/static/js/main.05cb57fa.chunk.js.map",
     "runtime-main.js": "/migrapp-1/static/js/runtime-main.973bf87e.js",
     "runtime-main.js.map": "/migrapp-1/static/js/runtime-main.973bf87e.js.map",
     "static/js/2.8a545648.chunk.js": "/migrapp-1/static/js/2.8a545648.chunk.js",
     "static/js/2.8a545648.chunk.js.map": "/migrapp-1/static/js/2.8a545648.chunk.js.map",
     "index.html": "/migrapp-1/index.html",
-    "precache-manifest.923df23e9a0452234f848f3854f207df.js": "/migrapp-1/precache-manifest.923df23e9a0452234f848f3854f207df.js",
+    "precache-manifest.b777b386ec132195984a708770e16f2c.js": "/migrapp-1/precache-manifest.b777b386ec132195984a708770e16f2c.js",
     "service-worker.js": "/migrapp-1/service-worker.js",
     "static/css/main.0d93896c.chunk.css.map": "/migrapp-1/static/css/main.0d93896c.chunk.css.map",
     "static/js/2.8a545648.chunk.js.LICENSE.txt": "/migrapp-1/static/js/2.8a545648.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.973bf87e.js",
     "static/js/2.8a545648.chunk.js",
     "static/css/main.0d93896c.chunk.css",
-    "static/js/main.12db9841.chunk.js"
+    "static/js/main.05cb57fa.chunk.js"
   ]
 }
