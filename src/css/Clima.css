@@ -1,0 +1,28 @@
+.cont-clm{
+    height: 120px;
+    margin: 20px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 24px;
+    background: red;
+    overflow: hidden;
+}
+
+.circulo-c-c{
+    /* position: static; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1-c{
+    position: relative;
+    top:25px;
+    left: 40px;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+}

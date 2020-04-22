@@ -1,0 +1,40 @@
+.cont-padre{
+    height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.cont-hijo{
+    height: 90%;
+}
+
+.block-1{
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    border-bottom-left-radius: 50px ;
+    border-bottom-right-radius: 50px ;
+}
+
+.block-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titulo{
+    margin: 18px 0px;
+}
+
+.btn-a{
+    margin: 0px 10px;
+}
+
+.ambientes-{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
